@@ -1,6 +1,5 @@
+
 https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=45D7F7&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+👋;I'm+Ahmed+Kotb;Frontend+Developer;React+%7C+Vue+%7C+JavaScript
-
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-kotb-516380260"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
