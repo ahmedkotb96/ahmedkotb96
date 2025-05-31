@@ -3,11 +3,16 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ahmed Kotb" /></a>
 </p>
 
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React.js+%7C+Vue.js+%7C+JavaScript;Chemistry+Background+%F0%9F%8C%8C;Clean+Code+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=45D7F7&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+👋;I'm+Ahmed+Kotb;Frontend+Developer;React+%7C+Vue+%7C+JavaScript
+
 
 <!-- Social icons section -->
 <p align="center">
