@@ -30,8 +30,6 @@ Frontend Developer with a strong foundation in HTML5, CSS3, and JavaScript, comp
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
   </p>
 
@@ -40,8 +38,6 @@ Frontend Developer with a strong foundation in HTML5, CSS3, and JavaScript, comp
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe-XD&logoColor=white">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white">
   </p>
 </details>
 
