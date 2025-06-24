@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=45D7F7&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Hello+World!+%F0%9F%91%8B;I'm+Ahmed+Kotb;Frontend+Developer;React+%7C+Vue+%7C+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=45D7F7&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Hello+World!+%F0%9F%91%8B;I'm+Ahmed+Kotb;Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,6 +59,28 @@ Frontend Developer with a strong foundation in HTML5, CSS3, and JavaScript, comp
   <h3>Ahmed Chem for trading chemicals</h3>
   <p>A comprehensive chemical trading platform showcasing laboratory and industrial chemicals with detailed product specifications.</p>
   <p><strong>Technologies:</strong> HTML5, React.js, Tailwind CSS</p>
+
+  <h3>AutoElite</h3>
+  <p>AutoElite is a modern car dealership website built with React, TypeScript, Tailwind CSS, and Vite. It features a sleek, responsive design, smooth navigation, and user authentication modals for Sign In and Sign Up.</p>
+  <ul>
+    <li>Responsive navigation bar with smooth scrolling</li>
+    <li>Hero, About, Inventory, and Contact sections</li>
+    <li>Stylish Sign In and Sign Up modal forms</li>
+    <li>Fixed navbar with blurred background</li>
+    <li>Clean, modern UI using Tailwind CSS</li>
+    <li>Built with React + TypeScript + Vite for fast development</li>
+  </ul>
+
+  <h3>MarketPro</h3>
+  <p>This project is a modern, responsive website for "MarketPro," a fictional digital marketing agency. It is built with React, TypeScript, and Vite, and styled with Tailwind CSS. The website is designed to be professional, engaging, and fully functional, showcasing the agency's services, projects, and team.</p>
+  <ul>
+    <li><strong>Modern Tech Stack:</strong> Built with React, TypeScript, and Vite for a fast and efficient development experience.</li>
+    <li><strong>Responsive Design:</strong> Fully responsive layout using Tailwind CSS, ensuring a great user experience on all devices, from mobile phones to desktops.</li>
+    <li><strong>Multi-language Support:</strong> Internationalization (i18n) implemented with react-i18next to support both English and Arabic.</li>
+    <li><strong>Dark Mode:</strong> A theme switcher to toggle between light and dark modes, with styles saved to local storage.</li>
+    <li><strong>Dynamic Page Titles:</strong> Uses react-helmet-async for SEO-friendly and descriptive page titles.</li>
+    <li><strong>Component-Based Architecture:</strong> Clean and maintainable code with a well-organized structure of reusable components.</li>
+  </ul>
 </details>
 
 <details> 
